@@ -30,3 +30,77 @@
 5️⃣ 닉네임, 비밀번호, 프로필 이미지 수정
 
 ## 폴더 구조
+```
+├── src/
+│   ├── middleware.ts
+│   ├── apis/
+│   │   ├── activitiesAPI.ts
+│   │   ├── API.type.ts
+│   │   ├── ApiError.ts
+│   │   ├── authAPI.ts
+│   │   ├── axiosInstance.ts
+│   │   ├── myActivitiesAPI.ts
+│   │   ├── myNotificationsAPI.ts
+│   │   ├── myReservationAPI.ts
+│   │   ├── OauthAPI.ts
+│   │   ├── usersAPI.ts
+│   ├── app/
+│   │   ├── error.tsx
+│   │   ├── favicon.ico
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   ├── (auth)/
+│   │   │   ├── layout.tsx
+│   │   │   ├── signin/
+│   │   │   │   ├── page.tsx
+│   │   │   ├── signup/
+│   │   │   │   ├── page.tsx
+│   │   ├── (home)/
+│   │   │   ├── layout.tsx
+│   │   │   ├── page.tsx
+│   │   │   ├── search/
+│   │   │   │   ├── page.tsx
+│   │   │   │   ├── _components/
+│   │   │   │   │   ├── ActivityGrid.tsx
+│   │   │   │   │   ├── SortDropdown.tsx
+│   │   │   │   │   ├── TabList/
+│   │   │   │   │   │   ├── index.tsx
+│   │   │   │   │   │   ├── Tab.tsx
+│   │   │   ├── utils/
+│   │   │   │   ├── activitySectionQuery.ts
+│   │   │   ├── [activityId]/
+│   │   │   │   ├── page.tsx
+│   │   │   │   ├── queryOptions.ts
+│   │   │   │   ├── _components/
+│   │   │   │   │   ├── Contents.tsx
+│   │   │   │   │   ├── Images.tsx
+│   │   │   │   │   ├── Map.tsx
+│   │   │   │   │   ├── MobileFooter.tsx
+│   │   │   │   │   ├── ReservationModal.tsx
+│   ├── components/
+│   │   ├── Button.tsx
+│   │   ├── Modal.tsx
+│   │   ├── Popup.tsx
+│   │   ├── Tooltip.tsx
+│   ├── contexts/
+│   │   ├── ReactQueryProviders.tsx
+│   ├── hooks/
+│   │   ├── useDropdownToggle.ts
+│   │   ├── useImageError.ts
+│   │   ├── useMediaQuery.ts
+│   │   ├── useUpdateQuery.ts
+│   ├── lib/
+│   │   ├── GoogleAnalytics.tsx
+│   ├── store/
+│   │   ├── kakaoSocialStatusStore.ts
+│   │   ├── socialLoginStore.ts
+│   ├── utils/
+│   │   ├── createQueryString.ts
+│   │   │   ├── formatDateToKorean.ts
+│   │   │   ├── formatKoreanWon.ts
+│   │   │   ├── formatTime.ts
+│   │   │   ├── getUserInfoFromCookie.ts
+│   │   │   ├── logoutCookies.ts
+│   │   │   ├── schema.ts
+```
+
