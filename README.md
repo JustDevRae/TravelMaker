@@ -7,7 +7,9 @@
 ## 참여 인원
 |      **김민재**|                                                           **김승래**|                 **이승헌**|                                                        **주강산**|                                                               **장혜민**|
 | :-: | :-: | :-: | :-: | :-: |
-|[<img src="https://avatars.githubusercontent.com/u/155063714?v=4" height=100> <br/> @PixeIDark](https://github.com/PixeIDark)| [<img src="https://avatars.githubusercontent.com/u/160004698?v=4" height=100> <br/> @JustDevRae](https://github.com/JustDevRae) | [<img src="https://avatars.githubusercontent.com/u/137388618?v=4" height=100> <br/> @heony704](https://github.com/heony704) | [<img src="https://avatars.githubusercontent.com/u/137388618?v=4" height=100> <br/> @JooKangsan](https://github.com/JooKangsan) | [<img src="https://avatars.githubusercontent.com/u/77830806?v=4" height=100> <br/> @hnitam](https://github.com/hnitam) |
+|[<img src="https://avatars.githubusercontent.com/u/162538553?v=4" height=100> <br/> @PixeIDark](https://github.com/PixeIDark)| [<img src="https://avatars.githubusercontent.com/u/160004698?v=4" height=100> <br/> @JustDevRae](https://github.com/JustDevRae) | [<img src="https://avatars.githubusercontent.com/u/36994104?v=4" height=100> <br/> @heony704](https://github.com/heony704) | [<img src="https://avatars.githubusercontent.com/u/162934516?v=4" height=100> <br/> @JooKangsan](https://github.com/JooKangsan) | [<img src="https://avatars.githubusercontent.com/u/162106484?v=4" height=100> <br/> @hnitam](https://github.com/hnitam) |
+
+ 
 
 ## 기술스택
 - **Typescript**
